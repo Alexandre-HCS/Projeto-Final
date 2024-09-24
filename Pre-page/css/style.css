@@ -33,8 +33,8 @@ body{
 
   .texto-cabecalho{
     position: relative;
-    font-size: 100px;
-    left: 525px;
+    font-size: 50px;
+    left: 262px;
     color: #F2F5F7;
   }
 
@@ -62,11 +62,11 @@ main{
 }
 
 .mid-text{
-    font-size: 150px;
+    font-size: 75px;
     color: #f2f5f79f;
     position: absolute;
     z-index: +1;
-    top: 450px;
+    top: 225px;
     left: 17%;
     transition: color 1s;
 }
@@ -77,8 +77,8 @@ main{
 
 .footer-link{
     background-color: #E74E0F;
-    font-size: 50px;
-    padding: 20px;
+    font-size: 25px;
+    padding: 10px;
     border-radius: 40px;
     color: #F2F5F7;
     text-decoration: none;
