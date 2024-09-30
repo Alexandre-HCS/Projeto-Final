@@ -44,6 +44,7 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    overflow: hidden;
 }
 
 main{
@@ -87,9 +88,13 @@ H3{
     margin-top: 15px;
 }
 
+.text1{
+    margin-top: 15px;
+    font-size: 75%;
+}
+
 #t1{
-    margin-top: 30px;
-    border-top: 5px solid #FFFFFF;
+    border-bottom: #F2F5F7 solid 5px;
 }
 
 .bueno{
@@ -98,4 +103,9 @@ H3{
     top: 350px;
     left:170px;
     z-index: +1;
+}
+
+.container2{
+    display: flex;
+    flex-direction: column;
 }
