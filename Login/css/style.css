@@ -73,6 +73,7 @@ main{
 
 .text{
     margin: 5px;
+    border-radius: 5px;
 }
 
 .send{
@@ -81,6 +82,7 @@ main{
     padding: 2.5px;
     color: #F2F5F7;
     transition: background-color 0.5s;
+    border-radius:  5px;
 }
 
 .send:hover{
