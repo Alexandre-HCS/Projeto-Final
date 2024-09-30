@@ -1,4 +1,12 @@
 # Sprint-1
+## Integrantes: 
+Carlos Cerqueira N°3 <br>
+Laura Dutra N°16<br>
+Alexandre Silva N°1<br>
+Ana Lauren N°2<br>
+Matheus Hernandes N°23 <br>
+
+  
  # Dr Peanut
  A Dr. Peanut lançou um novo site inovador destinado ao cadastro e gerenciamento eficiente de seus produtos. Com uma interface amigável <br> e intuitiva, o sistema permite que os usuários cadastrem novos itens, atualizem informações e organizem o portfólio de forma prática.
  Os recursos incluem relatórios detalhados dos produtos cadastrados e controle dos itens que foram cadastrados,
@@ -19,6 +27,7 @@
 <img width="952" alt="suplierpage" src="https://github.com/user-attachments/assets/9d24bb5e-c969-4da5-82d1-f23852df3dcf">
 
 # Cadastro de Produto
+<img width="953" alt="cadastroProduto" src="https://github.com/user-attachments/assets/970828c4-8a3e-4f3e-abdd-eeb3c889c68c">
 
 
 # Listagem de Produtos
