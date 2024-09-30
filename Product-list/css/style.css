@@ -10,9 +10,9 @@
 header{
     display: flex;
     text-align: center;
-    background-color: #E74E0F;
-    padding-bottom: 10px;
-    padding-top: 10px;
+    background-color: #322172;
+    padding-bottom: 5px;
+    padding-top: 5px;
     position: relative;
     width: 100%;
 }
@@ -25,23 +25,101 @@ header{
 
 .texto-cabecalho{
     position: relative;
-    font-size: 100px;
-    left: 525px;
+    font-size: 50px;
+    left: 262px;
     color: #F2F5F7;
 }
 
 .exit{
     position: absolute;
-    font-size: 60px;
-    right: 70px;
+    font-size: 30px;
+    right: 35px;
     color: #F2F5F7;
     text-decoration: none;
-    top: 30px;
+    top: 15px;
 }
 
 body{
-    background-color: #322172;
+    background-color: #E74E0F;
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+}
+
+main{
+    color: #F2F5F7;
+    background-color: #E77140;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+    margin-top: 140px;
+    position: fixed;
+    bottom: 100px;
+    left: 290px;
+    font-size: 25px;
+}
+
+.end-top{
+    border-top-left-radius: 5px;
+}
+
+.end-bottom{
+    border-bottom-left-radius: 5px;
+}
+
+.end2-top{
+    border-top-right-radius: 5px;
+}
+
+.end2-bottom{
+    border-bottom-right-radius: 5px;
+}
+
+th, td{
+    margin: 10px;
+    padding: 10px;
+    background-color: #F2F5F7;
+    font-size: 20px;
+    border: #E77140 solid 2px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+th{
+    color: #C03902;
+}
+
+td{
+    color: #E77140;
+    text-decoration: none;
+}
+
+.actions{
+    text-decoration: none;
+    color: #E77140;
+    display: flex;
+    flex-direction: column;
+    border: #E77140 solid 0px;
+    margin: 0px;
+}
+
+h1{
+    color: #322172;
+}
+
+table{
+    margin: 20px;
+    margin-top: 50px;
+}
+
+.pasta{
+    position: absolute;
+    width: 18%;
+    z-index: +1;
+    right: 165px;
+    bottom: 5px;
 }

@@ -80,13 +80,6 @@ main{
     margin-top: 10px;
     padding: 2.5px;
     color: #F2F5F7;
-}
-
-.send{
-    background-color: #E74E0F;
-    margin-top: 10px;
-    padding: 2.5px;
-    color: #F2F5F7;
     transition: background-color 0.5s;
 }
 

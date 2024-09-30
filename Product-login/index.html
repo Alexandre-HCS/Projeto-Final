@@ -14,21 +14,26 @@
         <p class="texto-cabecalho">Site para fornecedores</p>
     </header>
     <main>
+        <h1 class="text-up">Sistema de cadastro</h1>
+        <h2 class="text-up text-up-bottom">Cadastro de fornecedor</h2>
+
         <input class="input" type="text" name="fornecedor" placeholder="Código do fornecedor" required maxlength="7">
         <input class="input" type="text" name="nome" placeholder="Nome do trabalhador" required>
         <textarea class="descricao" name="descricao" placeholder="Descrição do produto" required></textarea>
         <input class="input" type="number" name="preco" placeholder="Preço do produto" required>
-        <input type="submit" value="ENVIAR">
+        <input class="button" type="submit" value="CADASTRAR">
+
+        <p>Listagem de Produtos</p>
 
         <table class="tabela">
             <thead>
                 <tr>
-                  <th class="tabela-cel">ID</th>
-                   <th class="tabela-cel">Nome</th>
-                  <th class="tabela-cel">Descrição</th>
-                  <th class="tabela-cel">Preço</th>
-                  <th class="tabela-cel">Fornecedor</th>
-                 <th class="tabela-cel">Ações</th>
+                  <th class="tabela-cel end">ID</th>
+                    <th class="tabela-cel pre-end">Nome</th>
+                  <th class="tabela-cel pre-end">Descrição</th>
+                  <th class="tabela-cel pre-end">Preço</th>
+                  <th class="tabela-cel pre-end">Fornecedor</th>
+                 <th class="tabela-cel end">Ações</th>
                 </tr>
             </thead>
         </table>
