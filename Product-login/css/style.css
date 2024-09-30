@@ -11,8 +11,8 @@ header{
     display: flex;
     text-align: center;
     background-color: #E74E0F;
-    padding-bottom: 10px;
-    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-top: 5px;
     position: relative;
     width: 100%;
 }
@@ -25,18 +25,18 @@ header{
 
 .texto-cabecalho{
     position: relative;
-    font-size: 100px;
-    left: 525px;
+    font-size: 50px;
+    left: 262px;
     color: #F2F5F7;
 }
 
 .exit{
     position: absolute;
-    font-size: 60px;
-    right: 70px;
+    font-size: 30px;
+    right: 35px;
     color: #F2F5F7;
     text-decoration: none;
-    top: 30px;
+    top: 15px;
 }
 
 body{
@@ -44,4 +44,5 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+    overflow: hidden;
 }
