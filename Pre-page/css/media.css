@@ -1,0 +1,37 @@
+@media (max-width: 768px) {
+    .logo{
+        width: 50px;
+    }
+    .texto-cabecalho{
+        font-size: 15px;
+        left: 40px;
+    }
+
+    main{
+        text-align: center;
+        display: flex;
+    }
+
+    .mid-text{
+        font-size: 60px;
+        left: 0px;
+        top: 100px;
+        color: white;
+        -webkit-text-stroke: 2px black;
+        visibility: hidden;
+    }
+
+    .background{
+        visibility: hidden;
+    }
+
+    .background2{
+        visibility: visible;
+        height: 514px;
+    }
+
+    a{
+        font-weight: bold;
+    }
+
+}

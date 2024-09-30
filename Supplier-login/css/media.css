@@ -1,0 +1,52 @@
+@media (max-width: 768px){
+    .logo{
+        width: 50px;
+    }
+    .texto-cabecalho{
+        font-size: 15px;
+        left: 40px;
+    }
+
+    .exit{
+        font-size: 10px;
+        top: 15px;
+    }
+
+    .fundo{
+        width: 60%;
+        left: 25px;
+        padding-left: 40px;
+        padding-right: 40px;
+        top: 80px
+    }
+
+    .inputs1, .inputs2, .inputs3{
+        width: 160px;
+        font-size: 10px;
+    }
+
+    h1, h2{
+        font-size: 15px;
+    }
+
+    b{
+        font-size: 10px;
+        margin: 10px;
+    }
+
+    th{
+        font-size: 10px;
+        padding: 2px;
+        left: 0px;
+    }
+
+    .esp{
+        border-left: #493790 solid 1px;
+        border-right: #493790 solid 1px;
+    }
+
+    table{
+        left: 0px;
+    }
+
+}
