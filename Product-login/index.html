@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/media.css">
     <link rel="icon" href="img/page_logo.png" type="image/png">
     <title>Dr.Peanuts</title>
 </head>
@@ -15,12 +16,12 @@
     </header>
     <main>
         <h1 class="text-up">Sistema de cadastro</h1>
-        <h2 class="text-up text-up-bottom">Cadastro de fornecedor</h2>
+        <h2 class="text-up text-up-bottom">Cadastro de produto</h2>
 
-        <input class="input" type="text" name="fornecedor" placeholder="Código do fornecedor" required maxlength="7">
-        <input class="input" type="text" name="nome" placeholder="Nome do trabalhador" required>
-        <textarea class="descricao" name="descricao" placeholder="Descrição do produto" required></textarea>
-        <input class="input" type="number" name="preco" placeholder="Preço do produto" required>
+        <input class="input" type="text" name="fornecedor" placeholder="Código do fornecedor" required maxlength="7" class="inputs">
+        <input class="input" type="text" name="nome" placeholder="Nome do trabalhador" required class="inputs">
+        <textarea class="descricao" name="descricao" placeholder="Descrição do produto" required class="inputs"></textarea>
+        <input class="input" type="number" name="preco" placeholder="Preço do produto" required class="inputs">
         <input class="button" type="submit" value="CADASTRAR">
 
         <p>Listagem de Produtos</p>

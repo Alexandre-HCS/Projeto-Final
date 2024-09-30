@@ -1,0 +1,24 @@
+@media (max-width: 768px){
+    .logo{
+        width: 50px;
+    }
+    .texto-cabecalho{
+        font-size: 15px;
+        left: 40px;
+    }
+
+    .exit{
+        font-size: 10px;
+        top: 15px;
+    }
+
+    main{
+        width: 60%;
+        left: 0px;
+    }
+
+    .tabela{
+        
+    }
+
+}

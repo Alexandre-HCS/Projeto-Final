@@ -1,0 +1,39 @@
+@media (max-width: 768px){
+    .logo{
+        width: 50px;
+    }
+    .texto-cabecalho{
+        font-size: 15px;
+        left: 40px;
+    }
+
+    .exit{
+        font-size: 10px;
+        bottom: 15px;
+    }
+
+    .container1{
+        width: 60%;
+        left: 48px;
+        padding-bottom: 100px;
+    }
+
+    .principal{
+        top: 30px;
+    }
+
+    .text{
+        font-size: 40%;
+    }
+
+    .text1{
+        font-size: 40%;
+    }
+
+    .bueno{
+        height:25%;
+        bottom: 3px;
+        left: 30px;
+    }
+
+}
