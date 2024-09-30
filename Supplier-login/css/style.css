@@ -25,18 +25,19 @@ header{
 
 .texto-cabecalho{
     position: relative;
-    font-size: 100px;
-    left: 525px;
+    font-size: 50px;
+    left: 262px;
     color: #F2F5F7;
+    top: 3px;
 }
 
 .exit{
     position: absolute;
-    font-size: 60px;
-    right: 70px;
+    font-size: 30px;
+    right: 35px;
     color: #F2F5F7;
     text-decoration: none;
-    top: 30px;
+    top: 33px;
 }
 
 body{
@@ -44,4 +45,99 @@ body{
     display: flex;
     flex-direction: column;
     min-height: 100vh;
+}
+
+.fundo{
+    color: #F2F5F7;
+    background-color: #493790;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+    text-align: center;
+    height: 420px;
+    width: 700px;
+    border-radius: 15px;
+    top: 150px;
+    position: fixed;
+    left: 295px;
+    background-color: #493790;
+    align-items: center;
+}
+
+.inputs1{
+    height: 30px ;
+    width: 600px;
+    border-radius: 5px;
+    position: relative;
+    bottom: 20px;
+    
+}
+
+.inputs2{
+    height: 30px ;
+    width: 600px;
+    border-radius: 5px;
+    position: relative;
+    bottom: 20px;
+}
+
+.inputs3{
+    height: 30px ;
+    width: 600px;
+    border-radius: 5px;
+    position: relative;
+    bottom: 20px;
+}
+
+
+h2{
+    font-size: 20px;
+    color: #E74E0F;
+    position: relative;
+    bottom: 10px;
+}
+
+h1{
+    font-size: 30px;
+    position: relative;
+    bottom: 10px;
+}
+
+p{
+    margin: 10px;
+    position: relative;
+    bottom: 20px;
+    right: 270px;
+}
+
+.cadastrar{
+    background-color: #E74E0F;
+    color: #F2F5F7;
+    height: 23px;
+    width: 100px;
+    position: relative;
+    left: 20px;
+    border-radius: 5px;
+}
+
+table{
+    margin: 10px;
+    background-color: #F2F5F7;
+    color: #493790;
+    border-radius: 5px;
+    left: 95px;
+    position: relative;
+}
+
+th{
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.esp{
+    border-left: #493790 solid 5px;
+    border-right: #493790 solid 5px;
+
 }
