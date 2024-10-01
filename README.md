@@ -1,4 +1,4 @@
-# Sprint-1
+# Sprint-1 (Projeto Didático)
 ## Integrantes: 
 Carlos Cerqueira N°3 <br>
 Laura Dutra N°16<br>
