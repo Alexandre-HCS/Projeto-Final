@@ -1,10 +1,10 @@
 # Sprint-1 (Projeto Didático)
 ## Integrantes: 
-Carlos Cerqueira N°3 <br>
-Laura Dutra N°16<br>
-Alexandre Silva N°1<br>
-Ana Lauren N°2<br>
-Matheus Hernandes N°23 <br>
+01 Ana Lauren <br>
+02 Alexandre Silva <br>
+03 Carlos Cerqueira <br>
+16 Laura Dutra <br>
+23 Matheus Hernandes <br>
 
   
  # Dr Peanut
