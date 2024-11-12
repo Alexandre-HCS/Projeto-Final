@@ -1,7 +1,7 @@
 # Sprint-1 (Projeto Didático)
 ## Integrantes: 
-01 Ana Lauren <br>
-02 Alexandre Silva <br>
+01 Alexandre Silva <br>
+02 Ana Lauren Dourado <br>
 03 Carlos Cerqueira <br>
 16 Laura Dutra <br>
 23 Matheus Hernandes <br>
